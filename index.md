@@ -1,7 +1,7 @@
 ## 《财富自由之路》李笑来著
 
 
-### [1.第一天](https://congzhan.github.io/FreeOfMoney/day001)
+### [1.第一天](https://congzhan.github.io/FreeOfMoney/day001.md)
 定义
 
 你真的理解什么是“财富自由”吗？眼前这闪着光芒的“财富自由”，明明感觉自己使出了浑身气力，但为什么这么多年过去了，却没有以我们期望的速度向它靠近呢？
